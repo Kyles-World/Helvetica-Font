@@ -1,12 +1,2 @@
-Hello.
-
-Thank you for downloading this font. I re-edit these by downloading old font file pack from any other websites for copying it to the right unicode point.
-
-Edited by: Kyle Ray
-
----------
-Helvetica
----------
-
-With the name Helvetica (Latin for Swiss), this font has the objective and functional style which was associated with Swiss typography in the 1950s and 1960s.
-It is perfect for international correspondence: no ornament, no emotion, just clear presentation of information. Helvetica is still one of the best selling sans-serif fonts.
+# Helvetica
+One of the most famous and popular typefaces in the world. It lends an air of lucid efficiency to any typographic message with its clean, no-nonsense shapes. The original typeface was called Haas Grotesk, and was designed in 1957 by Max Miedinger for the Haas'sche Schriftgiesserei (Haas Type Foundry) in Switzerland. In 1960 the name was changed to Helvetica (an adaptation of "Helvetia", the Latin name for Switzerland). Over the years, the Helvetica family was expanded to include many different weights, but these were not as well coordinated with each other as they might have been. In 1983, D. Stempel AG and Linotype re-designed and digitized Neue Helvetica and updated it into a cohesive font family. Today, the original Helvetica family consists of 34 different font weights, and the Neue Helvetica family consists of 51 font weights. The numbering system describes Helvetica's characteristics and is similar to the numbering system of the Univers family. The basic or regular font, "Helvetica roman", forms the central point of the system with the designation "55 roman". The first figure of the number describes the weight - 25 ultra light to 95 extra black. The second figure gives width information - Helvetica 53 extended to Helvetica 57 condensed. The Helvetica family now forms an integral part of many digital printers and operating systems and has become a stylistic anchor in our visual culture. It is the quintessential sans serif font, timeless and neutral, and can be used for all types of communication.
